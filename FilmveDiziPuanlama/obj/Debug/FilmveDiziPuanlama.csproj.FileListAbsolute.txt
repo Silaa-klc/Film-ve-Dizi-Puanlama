@@ -1,0 +1,13 @@
+C:\Users\kulcu\source\repos\FilmveDiziPuanlama\FilmveDiziPuanlama\bin\Debug\FilmveDiziPuanlama.exe.config
+C:\Users\kulcu\source\repos\FilmveDiziPuanlama\FilmveDiziPuanlama\bin\Debug\FilmveDiziPuanlama.exe
+C:\Users\kulcu\source\repos\FilmveDiziPuanlama\FilmveDiziPuanlama\bin\Debug\FilmveDiziPuanlama.pdb
+C:\Users\kulcu\source\repos\FilmveDiziPuanlama\FilmveDiziPuanlama\obj\Debug\FilmveDiziPuanlama.csproj.AssemblyReference.cache
+C:\Users\kulcu\source\repos\FilmveDiziPuanlama\FilmveDiziPuanlama\obj\Debug\FilmveDiziPuanlama.Form1.resources
+C:\Users\kulcu\source\repos\FilmveDiziPuanlama\FilmveDiziPuanlama\obj\Debug\FilmveDiziPuanlama.Properties.Resources.resources
+C:\Users\kulcu\source\repos\FilmveDiziPuanlama\FilmveDiziPuanlama\obj\Debug\FilmveDiziPuanlama.csproj.GenerateResource.cache
+C:\Users\kulcu\source\repos\FilmveDiziPuanlama\FilmveDiziPuanlama\obj\Debug\FilmveDiziPuanlama.csproj.CoreCompileInputs.cache
+C:\Users\kulcu\source\repos\FilmveDiziPuanlama\FilmveDiziPuanlama\obj\Debug\FilmveDiziPuanlama.exe
+C:\Users\kulcu\source\repos\FilmveDiziPuanlama\FilmveDiziPuanlama\obj\Debug\FilmveDiziPuanlama.pdb
+C:\Users\kulcu\source\repos\FilmveDiziPuanlama\FilmveDiziPuanlama\obj\Debug\FilmveDiziPuanlama.FilmDiziEkle.resources
+C:\Users\kulcu\source\repos\FilmveDiziPuanlama\FilmveDiziPuanlama\obj\Debug\FilmveDiziPuanlama.GirisEkrani.resources
+C:\Users\kulcu\source\repos\FilmveDiziPuanlama\FilmveDiziPuanlama\obj\Debug\FilmveDiziPuanlama.HesapOlustur.resources
